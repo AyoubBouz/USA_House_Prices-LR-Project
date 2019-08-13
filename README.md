@@ -1,6 +1,6 @@
 # USA House Prices 
 House Prices (USA) : Linear Regression Project 
--Using Linear Regression technique to predict the houses prices with USA_Housing Dataset (.csv)
+-Using Linear Regression Algorithme to predict the houses prices with USA_Housing Dataset (.csv)
 
 
 **Contains :**
